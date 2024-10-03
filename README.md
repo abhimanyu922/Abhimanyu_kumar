@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/kabhimanyu922" target="blank"><img src="https://img.shields.io/twitter/follow/kabhimanyu922?logo=twitter&style=for-the-badge" alt="kabhimanyu922" /></a> </p>
 
-- 🔭 I’m currently working on **data science**.
+- 🔭 I’m currently working on **Data science**.
 - 🌱 I’m currently learning **Data Science, AWS DevOps**.
 - 👯 Open to collaboration on **Data Science and DevOps. Let’s create efficient workflows and scalable systems, leveraging data and automation for impact**.
 - I’m looking to collaborate on **Data Science and DevOps projects. I’m also looking for help with optimizing workflows and building scalable, automated solutions**.
