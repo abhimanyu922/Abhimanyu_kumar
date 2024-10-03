@@ -1,9 +1,9 @@
-![MasterHead](https://i.imgur.com/5D6gZ9G.png) <!-- Replace with a cool banner URL -->
+![MasterHead](https://img.freepik.com/free-vector/technology-programming-banner_1017-16893.jpg) <!-- Cool coding-related banner -->
 <h1 align="center">Hi 👋, I'm Abhimanyu Kumar</h1>
 <h3 align="center">Exploring the intersection of Data Science and DevOps. Automating workflows and deploying scalable applications. Driven by data, powered by efficiency.</h3>
 
 <p align="right">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o7aD4c0Y5qHt5MZyU/giphy.gif" /> <!-- GIF URL -->
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o7aD4c0Y5qHt5MZyU/giphy.gif" /> <!-- Coding-related GIF -->
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyu922&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu922" /> </p>
@@ -49,5 +49,4 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
- 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="
